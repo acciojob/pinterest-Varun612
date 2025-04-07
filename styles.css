@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+.hero {
+	display: flex;
+	justify-content:left;
+	align-item:flex-start;
+}
+.button {
+	padding: 10px 15px;
+	border-radius: 5px;
+	border-color: white;
+	background-color: #ef574c;
+	color: #ffffff;
+	height:35px;
+	width: 125px;
+	font-size: 13px;
+}
